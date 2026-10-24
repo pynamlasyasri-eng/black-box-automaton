@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black Box Automaton
 
 **An interactive web platform for finite-automata learning, inference and validation** — a Theory of Computation project.
@@ -192,3 +193,6 @@ Open http://localhost:8000 (the `frontend/dist` folder is detected automatically
 
 Likely questions: *Why can't L\* be exact here?* (no equivalence oracle) · *Why is the learned DFA minimal?* (distinct rows = Myhill–Nerode classes) ·
 *What is a counterexample?* · *Why are validation strings held out from passive learning?* (independent test set).
+=======
+# black-box-automaton
+>>>>>>> 9b97f63a4b83948d28c24cd7c39d433c172303ca
