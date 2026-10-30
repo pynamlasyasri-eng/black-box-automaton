@@ -57,7 +57,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           <span className="leading-tight"><span className="block text-sm font-bold">Black Box</span><span className="block text-sm font-bold text-cyan-300">Automaton</span></span>
         </Link>
         {links}
-        <div className="mt-auto px-5 text-xs text-slate-400">Theory of Computation project<br />Finite automata learning</div>
+        <div className="mt-auto px-5 text-xs text-slate-400"><br />Finite automata learning</div>
       </aside>
 
       <div className="lg:pl-64">

@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Black Box Automaton
 
-**An interactive web platform for finite-automata learning, inference and validation** — a Theory of Computation project.
+**An interactive web platform for finite-automata learning, inference and validation** .
 
 A hidden DFA ("mystery machine") answers ACCEPTED / REJECTED for the strings you send it. From those observations the
 app **infers a candidate DFA** (Angluin's L* or passive state merging), **draws it**, lets you **step through strings**,

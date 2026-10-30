@@ -53,7 +53,7 @@ export default function Home() {
       <section className="overflow-hidden rounded-3xl bg-gradient-to-br from-navy-950 via-navy-800 to-indigo-700 p-6 text-white shadow-lg sm:p-10">
         <div className="grid items-center gap-8 md:grid-cols-2">
           <div className="animate-fadeUp">
-            <p className="text-xs font-semibold uppercase tracking-widest text-cyan-300">Theory of Computation project</p>
+            <p className="text-xs font-semibold uppercase tracking-widest text-cyan-300"></p>
             <h1 className="mt-2 text-3xl font-extrabold leading-tight sm:text-4xl">Black Box Automaton</h1>
             <p className="mt-3 text-indigo-100">
               An interactive platform for finite automata learning, inference and validation. Observe an unknown machine
